@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MemeHub
 Random meme generator app implemented using Retrofit library.
 * User can click on new meme.
@@ -12,3 +13,7 @@ Random meme generator app implemented using Retrofit library.
 
 <p>
   
+=======
+# Retrofit
+Calling API using Retrofit.
+>>>>>>> 95f6098 (commit)
