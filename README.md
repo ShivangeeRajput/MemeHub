@@ -1,4 +1,4 @@
-# Meme-App
+# MemeHub
 Random meme generator app implemented using Retrofit library.
 * User can click on new meme.
 * User can share meme with friends as well.
