@@ -13,7 +13,4 @@ Random meme generator app implemented using Retrofit library.
 
 <p>
   
-=======
-# Retrofit
-Calling API using Retrofit.
->>>>>>> 95f6098 (commit)
+
