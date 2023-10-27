@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # MemeHub
 Random meme generator app implemented using Retrofit library.
 * User can click on new meme.
